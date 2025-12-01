@@ -15,7 +15,7 @@
 ### 4. Class Presentation
   The project presentation should be clear, professional, and demonstrate the problem, the solution, and the key features of the project.
 
-### 5. 2-Page Report
+### 5. Report
 The report should highlight the key features and impact of the project, reflecting on the challenges encountered and the lessons learned. 
 It should also provide insights into potential improvements and offer suggestions for future development
 
